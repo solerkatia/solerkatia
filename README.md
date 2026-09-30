@@ -1,72 +1,84 @@
-# ¡Hola, mundo! 👋 Soy Katia Soler
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World! 👋, I'm Katia Soler, I´m 20</h1></summary>
+  </ul>
+</div>
+
+- 🔭 I’m currently studying **Programming at UNAHUR (Universidad Nacional de Hurlingham)**.
+
+- 🌱 I am constantly learning and expanding my skills in **Python, Java, and modern Web Development**.
+
+- 💡 I have a strong passion for both **Front-End development** and **Process Automation (RPA)**.
+
+- 📫 Feel free to reach out to me at **katiasabrinasoler@gmail.com** or via WhatsApp **+54 11 3204-5958**.
 
 <img align="right" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=400&auto=format&fit=crop" alt="Coding" width="320" />
+<p align="center">
 
-Tengo **20 años** y actualmente soy estudiante de la **Tecnicatura en Programación** en la **UNAHUR** (Universidad Nacional de Hurlingham). Me apasiona el desarrollo de software, la resolución de problemas lógicos y la creación de soluciones eficientes que van desde el diseño visual en el frontend hasta la lógica, bases de datos y automatización en el backend.
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solerkatia&theme=dark&show_icons=true" />
 
-Siempre estoy en constante aprendizaje, explorando nuevas herramientas y buscando llevar mis proyectos al siguiente nivel.
+  <br></br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=solerkatia&theme=dark&hide_border=false" /> 
+</td>
 
----
+<td width="50%" align="center">
 
-## 🛠️ Stack Tecnológico y Habilidades
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=solerkatia&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
-Aquí están las tecnologías, lenguajes y herramientas con las que trabajo habitualmente:
+</p>        
 
-* **Frontend:** 
-  * `HTML5` & `CSS3`
-  * `JavaScript` (ES6+)
-  * `Bootstrap` & `Tailwind CSS`
-* **Backend y Lógica:** 
-  * `Python` (Automatización RPA, Scripting, Análisis de datos)
-  * `Java` (Programación Orientada a Objetos)
-* **Bases de Datos:** 
-  * `MySQL` (Modelado y consultas relacionales)
-* **Control de Versiones y Entornos:** 
-  * `Git` & `GitHub`
-  * `VS Code` 
-
----
-
-## 🚀 Proyectos Destacados
-
-* **[Portfolio Web](https://github.com/solerkatia/Portfolio-web-KatiaSoler)**
-  * Mi sitio web personal diseñado para mostrar mis proyectos, habilidades y trayectoria como desarrolladora.
-* **[Automatización de Envío de Reportes Financieros con Python](https://github.com/solerkatia/Automatizacion-de-Envio-de-Reportes-Financieros-con-Python)**
-  * Herramienta RPA y de análisis financiero. Extrae cotizaciones en tiempo real con `yfinance`, calcula métricas clave e interactúa de forma automatizada con el navegador y Gmail.
-* **[Automatización de Acciones](https://github.com/solerkatia/Automatizacion-acciones)**
-  * Scripts en Python orientados a la automatización de procesos repetitivos e interacción con interfaces.
-* **[Joker Studio](https://github.com/katiasoler/jokerstudio)**
-  * Proyecto de desarrollo enfocado en la creación de interfaces web atractivas y funcionales.
-* **[Bolloquy Beauty](https://github.com/katiasoler/bolloquybeauty)**
-  * Plataforma web desarrollada con tecnologías frontend orientada al sector de belleza y estética.
-
----
-
-## 📊 Estadísticas de GitHub
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solerkatia&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,bootstrap,tailwind,git,github,vscode,pycharm&perline=12" />
+  </a>
 </p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🚀 Featured Projects</h2></summary>
+  </ul>
+</div>
+
+- **[Portfolio Web](https://github.com/solerkatia/Portfolio-web-KatiaSoler)**: Personal portfolio website showcasing my skills, background, and projects as a software developer.
+- **[Financial Reports Automation](https://github.com/solerkatia/Automatizacion-de-Envio-de-Reportes-Financieros-con-Python)**: Python-based RPA tool that fetches real-time stock data via `yfinance`, calculates key metrics, and automates report sending through Gmail.
+- **[Actions Automation](https://github.com/solerkatia/Automatizacion-acciones)**: Python scripts focused on automating repetitive tasks and streamlining workflows.
+- **[Joker Studio](https://github.com/katiasoler/jokerstudio)**: Web development project focused on building engaging and functional user interfaces.
+- **[Bolloquy Beauty](https://github.com/katiasoler/bolloquybeauty)**: Frontend-focused web platform tailored for the beauty and aesthetics industry.
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solerkatia&layout=compact&theme=radical" alt="Top Languages" />
+<a href="mailto:katiasabrinasoler@gmail.com" target="blank"><img align="center" src="https://github.com/solerkatia/solerkatia/assets/114032339/0e6c8e19-b495-4850-ba89-7c167789e943" alt="mail" height="50" width="50" /></a>
 </p>
 
----
 
-## 📫 ¿Cómo contactarme?
+"Thank you so much for visiting my profile! If you have any proposals, questions, or just want to connect, feel free to reach out to me."🚀
 
-* **Correo Electrónico:** katiasabrinasoler@gmail.com
-* **Teléfono / WhatsApp:** +54 11 3204-5958
-
-¡Muchas gracias por visitar mi perfil! Si tienes alguna propuesta, pregunta o simplemente quieres conectar, no dudes en escribirme. 🚀
 
 <!--
 **solerkatia/solerkatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

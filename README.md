@@ -1,4 +1,3 @@
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World! 👋, I'm Katia Soler, I´m 20</h1></summary>
@@ -44,7 +43,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,bootstrap,tailwind,git,github,vscode,pycharm&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,bootstrap,tailwind" />
   </a>
 </p>
 
@@ -70,9 +69,9 @@
 <a href="mailto:katiasabrinasoler@gmail.com" target="blank"><img align="center" src="https://github.com/solerkatia/solerkatia/assets/114032339/0e6c8e19-b495-4850-ba89-7c167789e943" alt="mail" height="50" width="50" /></a>
 </p>
 
-
-"Thank you so much for visiting my profile! If you have any proposals, questions, or just want to connect, feel free to reach out to me."🚀
-
+<p align="center">
+Thank you so much for visiting my profile! If you have any proposals, questions, or just want to connect, feel free to reach out to me. 🚀
+</p>
 
 <!--
 **solerkatia/solerkatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

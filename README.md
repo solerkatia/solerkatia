@@ -1,7 +1,8 @@
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World! 👋, I'm Katia Soler, I´m 20</h1></summary>
-  </ul>
+  <img align="right" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=400&auto=format&fit=crop" alt="Coding" width="320" />
+  <p align="center">
+    <h1 style="display: inline-block">Hello World! 👋, I'm Katia Soler, I´m 20</h1>
+  </p>
 </div>
 
 - 🔭 I’m currently studying **Programming at UNAHUR (Universidad Nacional de Hurlingham)**.
@@ -12,7 +13,7 @@
 
 - 📫 Feel free to reach out to me at **katiasabrinasoler@gmail.com** or via WhatsApp **+54 11 3204-5958**.
 
-<img align="right" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=400&auto=format&fit=crop" alt="Coding" width="320" />
+
 <p align="center">
 
 <table align="center">
@@ -36,9 +37,9 @@
 </p>        
 
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
-  </ul>
+  <p align="center">
+    <h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2>
+  </p>
 </div>
 
 <p align="center">
@@ -48,9 +49,9 @@
 </p>
 
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🚀 Featured Projects</h2></summary>
-  </ul>
+  <p align="center">
+    <h2 style="display: inline-block">🚀 Featured Projects</h2>
+  </p>
 </div>
 
 - **[Portfolio Web](https://github.com/solerkatia/Portfolio-web-KatiaSoler)**: Personal portfolio website showcasing my skills, background, and projects as a software developer.
@@ -60,13 +61,15 @@
 - **[Bolloquy Beauty](https://github.com/katiasoler/bolloquybeauty)**: Frontend-focused web platform tailored for the beauty and aesthetics industry.
 
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
-  </ul>
+  <p align="center">
+    <h2 style="display: inline-block">Connect With Me 🤝</h2>
+  </up>
 </div>
 
 <p align="center">
-<a href="mailto:katiasabrinasoler@gmail.com" target="blank"><img align="center" src="https://github.com/solerkatia/solerkatia/assets/114032339/0e6c8e19-b495-4850-ba89-7c167789e943" alt="mail" height="50" width="50" /></a>
+  <a href="mailto:katiasabrinasoler@gmail.com" target="blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50" />
+  </a>
 </p>
 
 <p align="center">
